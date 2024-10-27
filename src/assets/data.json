@@ -1,0 +1,74 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Software Engineer",
+            "salary": "$80,000",
+            "location": "New York, NY",
+            "description": "Develop and maintain software applications, troubleshoot issues, and collaborate with cross-functional teams to deliver high-quality products."
+        },
+        {
+            "id": 2,
+            "title": "Data Analyst",
+            "salary": "$70,000",
+            "location": "San Francisco, CA",
+            "description": "Analyze complex data sets to identify trends and patterns, create reports, and provide insights to support decision-making across departments."
+        },
+        {
+            "id": 3,
+            "title": "Product Manager",
+            "salary": "$95,000",
+            "location": "Seattle, WA",
+            "description": "Oversee product development from concept to launch, work with stakeholders to define requirements, and ensure the product aligns with company goals and user needs."
+        },
+        {
+            "id": 4,
+            "title": "Graphic Designer",
+            "salary": "$50,000",
+            "location": "Los Angeles, CA",
+            "description": "Create visually appealing designs for digital and print media, collaborate with marketing teams, and ensure brand consistency across all platforms."
+        },
+        {
+            "id": 5,
+            "title": "Marketing Specialist",
+            "salary": "$60,000",
+            "location": "Austin, TX",
+            "description": "Develop and implement marketing campaigns, analyze performance metrics, and work on strategies to enhance brand visibility and customer engagement."
+        },
+        {
+            "id": 6,
+            "title": "Sales Manager",
+            "salary": "$85,000",
+            "location": "Chicago, IL",
+            "description": "Lead the sales team, set targets, analyze market trends, and strategize to increase sales and expand customer base."
+        },
+        {
+            "id": 7,
+            "title": "Financial Analyst",
+            "salary": "$75,000",
+            "location": "Boston, MA",
+            "description": "Examine financial data, create forecasts, provide investment advice, and support budgeting processes for business units."
+        },
+        {
+            "id": 8,
+            "title": "Human Resources Manager",
+            "salary": "$90,000",
+            "location": "Denver, CO",
+            "description": "Manage recruitment, employee relations, and benefits, while fostering a positive workplace culture and ensuring compliance with labor laws."
+        },
+        {
+            "id": 9,
+            "title": "Web Developer",
+            "salary": "$65,000",
+            "location": "Miami, FL",
+            "description": "Build and maintain websites, work on front-end and back-end components, and collaborate with designers to improve user experience."
+        },
+        {
+            "id": 10,
+            "title": "Operations Manager",
+            "salary": "$88,000",
+            "location": "Phoenix, AZ",
+            "description": "Oversee daily operations, ensure process efficiency, and work on improving logistics, quality control, and overall productivity."
+        }
+    ]
+}
